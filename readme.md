@@ -55,8 +55,6 @@ If you don't want to call the Braintree_Configuration's all the time you can cre
 		'merchant_id' => 'your_merchant_id'
 	);
 
-Stripe has introduced a version number to avoid breaking changes.  
-
 Braintree is an payment company with a simple API and a reasonable fee structure.
 
 - Homepage:		   https://www.braintreepayments.com/
